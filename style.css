@@ -1,0 +1,25 @@
+body{
+    background-image: url(./images/milad-fakurian-E8Ufcyxz514-unsplash.jpg);
+    
+    
+}
+.navbar{
+    float: right;
+    margin-top: 40px;
+    margin-right:40px;
+    font-size: x-large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    word-spacing: 11px;
+    
+}
+.navbar a{
+    color: pink;
+    text-decoration: none;
+    border: 2px solid white;
+    padding: 7px;
+}
+
+.navbar a:hover{
+    background-color: blueviolet;
+    color: purple;
+}
